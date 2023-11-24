@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table border="0" id="ctl00_contentPlaceHolder_radGridConsumption_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col style="width:20%" />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Month</th><th scope="col">kWh Used</th><th scope="col">Diff.</th><th scope="col">Billing Days</th><th scope="col">Avg Daily kWh</th><th scope="col">Diff.</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">September 2023</td><td style="border:1px solid #000000;text-align:center;width:110px;">1488</td><td style="border:1px solid #000000;text-align:center;width:110px;">172</td><td style="border:1px solid #000000;text-align:center;width:110px;">29</td><td style="border:1px solid #000000;text-align:center;width:110px;">51</td><td style="border:1px solid #000000;text-align:center;width:110px;">10</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">September 2022</td><td style="border:1px solid #000000;text-align:center;width:110px;">1316</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">32</td><td style="border:1px solid #000000;text-align:center;width:110px;">41</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">August 2023</td><td style="border:1px solid #000000;text-align:center;width:110px;">1640</td><td style="border:1px solid #000000;text-align:center;width:110px;">325</td><td style="border:1px solid #000000;text-align:center;width:110px;">32</td><td style="border:1px solid #000000;text-align:center;width:110px;">51</td><td style="border:1px solid #000000;text-align:center;width:110px;">9</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">August 2022</td><td style="border:1px solid #000000;text-align:center;width:110px;">1315</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">31</td><td style="border:1px solid #000000;text-align:center;width:110px;">42</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">July 2023</td><td style="border:1px solid #000000;text-align:center;width:110px;">1646</td><td style="border:1px solid #000000;text-align:center;width:110px;">275</td><td style="border:1px solid #000000;text-align:center;width:110px;">31</td><td style="border:1px solid #000000;text-align:center;width:110px;">53</td><td style="border:1px solid #000000;text-align:center;width:110px;">11</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">July 2022</td><td style="border:1px solid #000000;text-align:center;width:110px;">1371</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">32</td><td style="border:1px solid #000000;text-align:center;width:110px;">42</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">June 2023</td><td style="border:1px solid #000000;text-align:center;width:110px;">1527</td><td style="border:1px solid #000000;text-align:center;width:110px;">369</td><td style="border:1px solid #000000;text-align:center;width:110px;">32</td><td style="border:1px solid #000000;text-align:center;width:110px;">47</td><td style="border:1px solid #000000;text-align:center;width:110px;">9</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">June 2022</td><td style="border:1px solid #000000;text-align:center;width:110px;">1158</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">30</td><td style="border:1px solid #000000;text-align:center;width:110px;">38</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">May 2023</td><td style="border:1px solid #000000;text-align:center;width:110px;">1504</td><td style="border:1px solid #000000;text-align:center;width:110px;">1</td><td style="border:1px solid #000000;text-align:center;width:110px;">28</td><td style="border:1px solid #000000;text-align:center;width:110px;">53</td><td style="border:1px solid #000000;text-align:center;width:110px;">0</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">May 2022</td><td style="border:1px solid #000000;text-align:center;width:110px;">1503</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">28</td><td style="border:1px solid #000000;text-align:center;width:110px;">53</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">April 2023</td><td style="border:1px solid #000000;text-align:center;width:110px;">1989</td><td style="border:1px solid #000000;text-align:center;width:110px;">416</td><td style="border:1px solid #000000;text-align:center;width:110px;">31</td><td style="border:1px solid #000000;text-align:center;width:110px;">64</td><td style="border:1px solid #000000;text-align:center;width:110px;">&#8209;10</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">April 2022</td><td style="border:1px solid #000000;text-align:center;width:110px;">1573</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">21</td><td style="border:1px solid #000000;text-align:center;width:110px;">74</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">March 2023</td><td style="border:1px solid #000000;text-align:center;width:110px;">2550</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">32</td><td style="border:1px solid #000000;text-align:center;width:110px;">79</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">February 2023</td><td style="border:1px solid #000000;text-align:center;width:110px;">2566</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">29</td><td style="border:1px solid #000000;text-align:center;width:110px;">88</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">January 2023</td><td style="border:1px solid #000000;text-align:center;width:110px;">2243</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">30</td><td style="border:1px solid #000000;text-align:center;width:110px;">74</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">December 2022</td><td style="border:1px solid #000000;text-align:center;width:110px;">1982</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">28</td><td style="border:1px solid #000000;text-align:center;width:110px;">70</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">November 2022</td><td style="border:1px solid #000000;text-align:center;width:110px;">1782</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">32</td><td style="border:1px solid #000000;text-align:center;width:110px;">55</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr><tr>
+		<td style="border:1px solid #000000;text-align:center;width:110px;mso-number-format:MMMM\_yyyy;">October 2022</td><td style="border:1px solid #000000;text-align:center;width:110px;">1423</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td><td style="border:1px solid #000000;text-align:center;width:110px;">30</td><td style="border:1px solid #000000;text-align:center;width:110px;">47</td><td style="border:1px solid #000000;text-align:center;width:110px;">-</td>
+	</tr>
+	</tbody>
+
+</table></body></html>
